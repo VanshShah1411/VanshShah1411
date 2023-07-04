@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vansh</h1>
 <h3 align="center">I'm currently a student at Indus University and studying computer engineering. I am working on some side projects, learning a couple new dishes</h3>
 
-- 🔭 I’m currently working on **E-Pharmacy**
+- 🔭 I’m currently working on **Learning AWS**
 
 - 🌱 I’m currently learning **ML, AWS, GCP**
 
