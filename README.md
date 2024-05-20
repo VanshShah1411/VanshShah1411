@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Vansh</h1>
-<h3 align="center">I'm currently a student at Indus University and studying computer engineering. I am working on some side projects, learning a couple new dishes</h3>
+<h1 align="center">Hi 👋, I'm Vansh Shah</h1>
+<h3 align="center">I'm a BTech Graduate in Computer Engineering from Indus University. I am working on some side projects, learning a couple new things</h3>
 
 - 🔭 I’m currently working on **Learning AWS**
 
-- 🌱 I’m currently learning **ML, AWS, GCP**
+- 🌱 I’m currently learning **AWS, GCP**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 🤝 I’m looking for help with **ML and Cloud**
 
-- 👨‍💻 All of my projects are available at [https://github.com/panthchristian](https://github.com/panthchristian)
+- 👨‍💻 All of my projects are available at [https://github.com/VanshShah1411](https://github.com/VanshShah1411)
 
 - 💬 Ask me about **Frontend**
 
-- 📫 How to reach me **panthchristian4990@gmail.com**
+- 📫 How to reach me **vanshshah1411@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
